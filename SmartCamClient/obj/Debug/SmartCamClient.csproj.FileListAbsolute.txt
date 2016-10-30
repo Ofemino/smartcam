@@ -1,0 +1,9 @@
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\bin\Debug\SmartCamClient.exe.config
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\bin\Debug\SmartCamClient.exe
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\bin\Debug\SmartCamClient.pdb
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\obj\Debug\SmartCamClient.exe
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\obj\Debug\SmartCamClient.pdb
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\obj\Debug\SmartCamClient.TerminalProvision.resources
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\obj\Debug\SmartCamClient.csproj.GenerateResource.Cache
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\bin\Debug\smartcamdb.mdb
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamClient\obj\Debug\SmartCamClient.csprojResolveAssemblyReference.cache

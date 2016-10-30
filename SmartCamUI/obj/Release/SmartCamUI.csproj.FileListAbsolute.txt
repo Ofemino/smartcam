@@ -1,0 +1,12 @@
+E:\Projects\SmartCamClient\SmartCamUI\obj\Release\SmartCamUI.csprojResolveAssemblyReference.cache
+E:\Projects\SmartCamClient\SmartCamUI\obj\Release\SmartCamUI.frmConfig.resources
+E:\Projects\SmartCamClient\SmartCamUI\obj\Release\SmartCamUI.frmMaintenance.resources
+E:\Projects\SmartCamClient\SmartCamUI\obj\Release\SmartCamUI.frmManager.resources
+E:\Projects\SmartCamClient\SmartCamUI\obj\Release\SmartCamUI.Properties.Resources.resources
+E:\Projects\SmartCamClient\SmartCamUI\obj\Release\SmartCamUI.csproj.GenerateResource.Cache
+E:\Projects\SmartCamClient\SmartCamUI\bin\Release\SmartCamUI.exe
+E:\Projects\SmartCamClient\SmartCamUI\bin\Release\SmartCamUI.pdb
+E:\Projects\SmartCamClient\SmartCamUI\bin\Release\SmartCamLibrary.dll
+E:\Projects\SmartCamClient\SmartCamUI\bin\Release\SmartCamLibrary.pdb
+E:\Projects\SmartCamClient\SmartCamUI\obj\Release\SmartCamUI.exe
+E:\Projects\SmartCamClient\SmartCamUI\obj\Release\SmartCamUI.pdb

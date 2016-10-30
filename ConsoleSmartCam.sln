@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSmartCam", "ConsoleSmartCam\ConsoleSmartCam.csproj", "{862B933B-CF4F-42CB-943C-120FDB6ABD01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCamClient", "SmartCamClient\SmartCamClient.csproj", "{BF0B69D3-5F92-47DA-94AF-EF7433034ED4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCamFtp", "SmartCamFtp\SmartCamFtp.csproj", "{7E5B6876-4AD3-4F73-9E32-5245CC9C4A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCamUI", "SmartCamUI\SmartCamUI.csproj", "{AEFB4828-2669-4213-AC40-BF36080E282A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCamHyosung", "SmartCamHyosung\SmartCamHyosung.csproj", "{4F01703D-4204-4A3F-881C-B7F2E198D316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCamWincor", "SmartCamWincor\SmartCamWincor.csproj", "{03B7B5C4-97BA-448E-8161-807749FEDCE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{862B933B-CF4F-42CB-943C-120FDB6ABD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862B933B-CF4F-42CB-943C-120FDB6ABD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862B933B-CF4F-42CB-943C-120FDB6ABD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862B933B-CF4F-42CB-943C-120FDB6ABD01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0B69D3-5F92-47DA-94AF-EF7433034ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0B69D3-5F92-47DA-94AF-EF7433034ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0B69D3-5F92-47DA-94AF-EF7433034ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0B69D3-5F92-47DA-94AF-EF7433034ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5B6876-4AD3-4F73-9E32-5245CC9C4A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5B6876-4AD3-4F73-9E32-5245CC9C4A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5B6876-4AD3-4F73-9E32-5245CC9C4A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5B6876-4AD3-4F73-9E32-5245CC9C4A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEFB4828-2669-4213-AC40-BF36080E282A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFB4828-2669-4213-AC40-BF36080E282A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFB4828-2669-4213-AC40-BF36080E282A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFB4828-2669-4213-AC40-BF36080E282A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F01703D-4204-4A3F-881C-B7F2E198D316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F01703D-4204-4A3F-881C-B7F2E198D316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F01703D-4204-4A3F-881C-B7F2E198D316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F01703D-4204-4A3F-881C-B7F2E198D316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03B7B5C4-97BA-448E-8161-807749FEDCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B7B5C4-97BA-448E-8161-807749FEDCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B7B5C4-97BA-448E-8161-807749FEDCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B7B5C4-97BA-448E-8161-807749FEDCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

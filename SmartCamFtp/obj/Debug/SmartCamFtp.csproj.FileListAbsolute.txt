@@ -1,0 +1,15 @@
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\bin\Debug\SmartCamFtp.exe.config
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\bin\Debug\SmartCamFtp.exe
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\bin\Debug\SmartCamFtp.pdb
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\bin\Debug\Telerik.WinControls.dll
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\bin\Debug\Telerik.WinControls.UI.dll
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\bin\Debug\TelerikCommon.dll
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\bin\Debug\Telerik.WinControls.xml
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\bin\Debug\Telerik.WinControls.UI.xml
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\obj\Debug\SmartCamFtp.Form1.resources
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\obj\Debug\SmartCamFtp.Properties.Resources.resources
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\obj\Debug\SmartCamFtp.csproj.GenerateResource.Cache
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\obj\Debug\SmartCamFtp.exe.licenses
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\obj\Debug\SmartCamFtp.exe
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\obj\Debug\SmartCamFtp.pdb
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamFtp\obj\Debug\SmartCamFtp.csprojResolveAssemblyReference.cache

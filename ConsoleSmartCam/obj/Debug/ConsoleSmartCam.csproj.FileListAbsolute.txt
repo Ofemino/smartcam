@@ -1,0 +1,9 @@
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\bin\Debug\ConsoleSmartCam.exe.config
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\bin\Debug\ConsoleSmartCam.exe
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\bin\Debug\ConsoleSmartCam.pdb
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\obj\Debug\ConsoleSmartCam.exe
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\obj\Debug\ConsoleSmartCam.pdb
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\bin\Debug\ConsoleSmartCam.exe.manifest
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\bin\Debug\ConsoleSmartCam.application
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\obj\Debug\ConsoleSmartCam.exe.manifest
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\ConsoleSmartCam\obj\Debug\ConsoleSmartCam.application

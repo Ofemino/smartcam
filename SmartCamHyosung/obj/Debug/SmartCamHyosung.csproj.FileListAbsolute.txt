@@ -1,0 +1,6 @@
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamHyosung\bin\Debug\SmartCamHyosung.exe.config
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamHyosung\bin\Debug\SmartCamHyosung.exe
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamHyosung\bin\Debug\SmartCamHyosung.pdb
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamHyosung\obj\Debug\SmartCamHyosung.csprojResolveAssemblyReference.cache
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamHyosung\obj\Debug\SmartCamHyosung.exe
+C:\MYPROJECTS\VS2015\ConsoleSmartCam\SmartCamHyosung\obj\Debug\SmartCamHyosung.pdb
